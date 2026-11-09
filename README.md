@@ -91,7 +91,6 @@ Demonstrar, por meio de uma maquete funcional, como diferentes fontes de energia
 
 ## 6. As quatro energias da maquete
 
-> ✏️ **Confira:** a lista abaixo foi montada a partir das estruturas visíveis na maquete. Ajuste os detalhes de cada energia conforme o que foi realmente construído e apresentado.
 
 ---
 
@@ -291,7 +290,6 @@ O projeto se conecta a Objetivos de Desenvolvimento Sustentável (ODS) da ONU:
   <img src="img_tcc/equipe_com_maquete.png" alt="Equipe apresentando a maquete" width="640">
 </p>
 
-> ✏️ Se desejar, acrescente aqui nota da banca, premiações, links de vídeo da apresentação e feedbacks recebidos.
 
 ## 14. Limitações e melhorias futuras
 
