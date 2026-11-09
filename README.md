@@ -214,11 +214,9 @@ Por se tratar de um TCC do curso de **Automação**, o projeto também aplica co
 - Organização de circuitos e alimentação elétrica;
 - Integração entre sistemas mecânicos, elétricos e eletrônicos.
 
-> ✏️ **Complete aqui:** descreva o que foi automatizado na maquete (por exemplo: LEDs de indicação, motores, bombas, sensores, microcontrolador utilizado, programação etc.).
 
 ## 9. Materiais e tecnologias
 
-> ✏️ Preencha e ajuste conforme o que foi realmente utilizado.
 
 **Estrutura e cenário**
 - Casa em MDF cortado (com móveis em miniatura);
